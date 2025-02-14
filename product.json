@@ -187,5 +187,26 @@
     "star": "4.4",
     "starNum": "1563 個評分",
     "url": "https://www.theenglishsofacompany.co.uk/fabric-sofas/rochester-fabric/"
+  },
+  {
+    "_id": {"$oid": "6706681fb60a975a0f91d9e5"},
+    "Image_matting": {"$oid": "670df1c59c6cf93371fb0688"},
+    "Image_matting_RMBG_2": {
+      "0": {"$oid": "673aec447ea23a084f134166"}
+    },
+    "asin": "B0BC1DD4WH",
+    "brand": "Maupvit",
+    "color_options": ["米色", "黑色", "深質樸橡木。", "深核桃色", "輕盈鄉村橡木", "仿古棕色", "仿古橡木藤", "水洗灰色", "白色", "黃色"],
+    "category": "sofa",
+    "description": "Some other information about Sofa3...",
+    "image": "https://m.media-amazon.com/images/I/81JsjAoQnSL._AC_UL1000_.jpg",
+    "images": ["https://raw.githubusercontent.com/TWAnnoyingKid/ARFurnitureAppDatabase/main/FurnitureInfoData/Sofa/Sofa3/Img/1.jpg","https://raw.githubusercontent.com/TWAnnoyingKid/ARFurnitureAppDatabase/main/FurnitureInfoData/Sofa/Sofa3/Img/2.jpg","https://raw.githubusercontent.com/TWAnnoyingKid/ARFurnitureAppDatabase/main/FurnitureInfoData/Sofa/Sofa3/Img/3.jpg","https://raw.githubusercontent.com/TWAnnoyingKid/ARFurnitureAppDatabase/main/FurnitureInfoData/Sofa/Sofa3/Img/4.jpg","https://raw.githubusercontent.com/TWAnnoyingKid/ARFurnitureAppDatabase/main/FurnitureInfoData/Sofa/Sofa3/Img/5.jpg","https://raw.githubusercontent.com/TWAnnoyingKid/ARFurnitureAppDatabase/main/FurnitureInfoData/Sofa/Sofa3/Img/6.jpg","https://raw.githubusercontent.com/TWAnnoyingKid/ARFurnitureAppDatabase/main/FurnitureInfoData/Sofa/Sofa3/Img/7.jpg"],
+    "name": "Japan Style Sofa",
+    "model_url": "https://raw.githubusercontent.com/TWAnnoyingKid/AR_Furniture_App/main/Sofa3.glb",
+    "price_string": "4999",
+    "size_options": ["80深 x 190寬 x 85高 公分"],
+    "star": "4.4",
+    "starNum": "1563 個評分",
+    "url": "https://www.hdlife.com.tw/ItemInfo/21086"
   }
 ]
