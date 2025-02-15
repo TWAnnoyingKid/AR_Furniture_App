@@ -63,6 +63,27 @@
     "url": "https://www.mrliving.com.tw/officechair-milan-leather-tan.html"
   },
   {
+    "_id": {"$oid": "6706681fb60a975a0f91d9e4"},
+    "Image_matting": {"$oid": "670df1c59c6cf93371fb0688"},
+    "Image_matting_RMBG_2": {
+      "0": {"$oid": "673aec447ea23a084f134166"}
+    },
+    "asin": "B0BC1DD4WH",
+    "brand": "Maupvit",
+    "color_options": ["米色", "黑色", "深質樸橡木。", "深核桃色", "輕盈鄉村橡木", "仿古棕色", "仿古橡木藤", "水洗灰色", "白色", "黃色"],
+    "category": "chair",
+    "description": "Some other information about Chair1...",
+    "image": "https://m.media-amazon.com/images/I/81JsjAoQnSL._AC_UL1000_.jpg",
+    "images": ["https://raw.githubusercontent.com/TWAnnoyingKid/ARFurnitureAppDatabase/main/FurnitureInfoData/Screenshot_20241208_055351_X.jpg"],
+    "name": "Skull",
+    "model_url": "https://raw.githubusercontent.com/TWAnnoyingKid/AR_Furniture_App/main/skull.glb",
+    "price_string": "999",
+    "size_options": ["46深 x 61寬 x 26高 公分"],
+    "star": "4.4",
+    "starNum": "1563 個評分",
+    "url": "https://shop.logis.com.tw/product_d.php?lang=tw&tb=1&id=13058"
+  },
+  {
     "_id": {"$oid": "6706681fb60a975a0f91d9e5"},
     "Image_matting": {"$oid": "670df1c59c6cf93371fb0688"},
     "Image_matting_RMBG_2": {
