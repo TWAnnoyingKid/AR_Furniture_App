@@ -55,7 +55,7 @@
     "image": "https://m.media-amazon.com/images/I/81JsjAoQnSL._AC_UL1000_.jpg",
     "images": ["https://raw.githubusercontent.com/TWAnnoyingKid/ARFurnitureAppDatabase/main/FurnitureInfoData/Chair/Chair3/Img/199169_0.png","https://raw.githubusercontent.com/TWAnnoyingKid/ARFurnitureAppDatabase/main/FurnitureInfoData/Chair/Chair3/Img/199170_0.png","https://raw.githubusercontent.com/TWAnnoyingKid/ARFurnitureAppDatabase/main/FurnitureInfoData/Chair/Chair3/Img/199171_0.png"],
     "name": "Lab Chair",
-    "model_url": "https://raw.githubusercontent.com/TWAnnoyingKid/AR_Furniture_App/main/Chair7.glb",
+    "model_url": "https://raw.githubusercontent.com/TWAnnoyingKid/AR_Furniture_App/main/Chair3.glb",
     "price_string": "5999",
     "size_options": ["61深 x 61寬 x 129高 公分"],
     "star": "4.4",
